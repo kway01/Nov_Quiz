@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>‘Our cry for help’: 5 Afghan students need assistance bringing family to safety</title>
+        <!-- 1. Fill in the href attribute below to point to the CSS page, 'index.css'. -->
+		<link href="" rel="stylesheet" type="text/css" />
+    </head>
+
+    <body>
+
+    <h1>'Our cry for help’: 5 Afghan students need assistance bringing family to safety</h1>
+
+        
+
+        <!-- 2. Add the image called 'afghan_illustration.png' below this comment, using an img tag. The height should be auto and the width should be 60%. Don't forget the other requirements. -->
+       <img src="afghan_illustration.png" height="auto" width="60%">
+       <style>
+        img { border: 2px solid orangered;
+        }
+
+</style>
